@@ -214,9 +214,9 @@
             <div class="service-content">
                 <h2 class="wow rotateInDownLeft text-center" style="color: darkblue">Royal Shemesh – Solar Energy Products</h2>
             </div>
-            <div class="row p-3">
-                <div class="col-sm">
-                    <div class="card wow fadeInUp custom-shadow" style="width: 16rem;">
+            <div class="row">
+                <div class="col col-md-4 col-sm-6 mb-4">
+                    <div class="card wow fadeInUp custom-shadow">
                         <img src="img/solar-products/LRCwithsensor.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LRC05W (With Sensor) </h5>
@@ -231,8 +231,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm">
-                    <div class="card wow fadeInUp custom-shadow" style="width: 16rem;">
+                <div class="col col-md-4 col-sm-6 mb-4">
+                    <div class="card wow fadeInUp custom-shadow">
                         <img src="img/solar-products/LGA.png" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LGA15W </h5>
@@ -247,8 +247,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm">
-                    <div class="card custom-shadow wow fadeInUp" style="width: 16rem;">
+                <div class="col col-md-4 col-sm-6 mb-4">
+                    <div class="card custom-shadow wow fadeInUp">
                         <img src="img/solar-products/LRE.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LRE20W </h5>
@@ -264,9 +264,9 @@
                     </div>
                 </div>
             </div>
-            <div class="row p-3">
-                <div class="col-sm">
-                    <div class="card custom-shadow wow fadeInUp" style="width: 16rem;">
+            <div class="row">
+                <div class="col col-md-4 col-sm-6 mb-4">
+                    <div class="card custom-shadow wow fadeInUp">
                         <img src="img/solar-products/LRE30W.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LRE30W </h5>
@@ -281,8 +281,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm">
-                    <div class="card custom-shadow wow fadeInUp" style="width: 16rem;">
+                <div class="col col-md-4 col-sm-6 mb-4">
+                    <div class="card custom-shadow wow fadeInUp">
                         <img src="img/solar-products/LRE40W.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LRE40W </h5>
@@ -297,8 +297,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm">
-                    <div class="card custom-shadow wow fadeInUp" style="width: 16rem;">
+                <div class="col col-md-4 col-sm-6 mb-4">
+                    <div class="card custom-shadow wow fadeInUp">
                         <img src="img/solar-products/LRE60W.jpg" class="card-img-top img-fluid " alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LRE60W </h5>
@@ -314,9 +314,9 @@
                     </div>
                 </div>
             </div>
-            <div class="row p-3">
-                <div class="col-sm">
-                    <div class="card custom-shadow wow fadeInUp" style="width: 16rem;">
+            <div class="row">
+                <div class="col col-md-4 col-sm-6 mb-4">
+                    <div class="card custom-shadow wow fadeInUp">
                         <img src="img/solar-products/LRE80W.jpg" class="card-img-top img-fluid " alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LRE80W </h5>
@@ -330,8 +330,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm">
-                    <div class="card custom-shadow wow fadeInUp" style="width: 16rem;">
+                <div class="col col-md-4 col-sm-6 mb-4">
+                    <div class="card custom-shadow wow fadeInUp">
                         <img src="img/solar-products/LRC20W.png" class="card-img-top img-fluid " alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LRC20W-001GC2 </h5>
@@ -346,8 +346,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm">
-                    <div class="card custom-shadow wow fadeInUp" style="width: 16rem;">
+                <div class="col col-md-4 col-sm-6 mb-4">
+                    <div class="card custom-shadow wow fadeInUp">
                         <img src="img/solar-products/LFA24W.jpg" class="card-img-top img-fluid " alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LFA24W </h5>
