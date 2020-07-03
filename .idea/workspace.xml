@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b8737eb-cf2e-4e6b-a775-6971e1ad683c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1de63OX5og87JPQNb9vSxVF66bE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/clients" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\royalshemeshnew.com\img\clients" />
+      <recent name="C:\xampp\htdocs\royalshemeshnew.com\img" />
+      <recent name="C:\xampp\htdocs\royalshemesh.com\img" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b8737eb-cf2e-4e6b-a775-6971e1ad683c" name="Default Changelist" comment="" />
+      <created>1592773023104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592773023104</updated>
+      <workItem from="1592773047102" duration="120000" />
+      <workItem from="1592773263156" duration="4314000" />
+      <workItem from="1592777718942" duration="6777000" />
+      <workItem from="1592809013887" duration="4880000" />
+      <workItem from="1592831020967" duration="8097000" />
+      <workItem from="1592910904497" duration="15786000" />
+      <workItem from="1592931155712" duration="9384000" />
+      <workItem from="1593072437839" duration="8926000" />
+      <workItem from="1593092515528" duration="12909000" />
+      <workItem from="1593285155516" duration="12610000" />
+      <workItem from="1593334983497" duration="19946000" />
+      <workItem from="1593440282066" duration="1454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593337411520">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1593337411520" />
+    <state x="406" y="204" key="EditFileWatcherDialog" timestamp="1593336953126">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="406" y="204" key="EditFileWatcherDialog/0.0.1600.860@0.0.1600.860" timestamp="1593336953126" />
+    <state x="616" y="352" key="NewPhpFileDialog" timestamp="1593092620825">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="616" y="352" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1593092620825" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1593338008153">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1593338008153" />
+    <state x="480" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1593440298182">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="480" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1593440298182" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1593347746988">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1593347746988" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1592921749799">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1592921749799" />
+  </component>
+</project>
