@@ -499,33 +499,33 @@
                             </div>
                         </div>
                         <br>
-                        <div class="row row-cols-1 row-cols-md-3">
-                            <div class="col mb-3">
-                                <div class="card custom-shadow wow animated fadeInUp" style="width: 15rem;">
+                        <div class="row">
+                            <div class="col-md-4 mb-4">
+                                <div class="card custom-shadow wow animated fadeInUp">
                                     <div class="card-body">
                                         <div class="text-center"><i style="font-size: 50px;" class=" fa fa-money "></i></div>
                                         <p class="card-text text-center">Financial Services</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col mb-3">
-                                <div class="card custom-shadow wow animated fadeInUp" style="width: 15rem;">
+                            <div class="col-md-3 mb-4">
+                                <div class="card custom-shadow wow animated fadeInUp">
                                     <div class="card-body">
                                         <div class="text-center"><i style="font-size: 50px;" class=" fa fa-ambulance"></i></div>
                                         <p class="card-text text-center">Health Care </p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col mb-3">
-                                <div class="card custom-shadow wow animated fadeInUp" style="width: 15rem;">
+                            <div class="col-md-3 mb-4">
+                                <div class="card custom-shadow wow animated fadeInUp">
                                     <div class="card-body">
                                         <div class="text-center"><i style="font-size: 50px;" class=" fa fa-yelp "></i></div>
                                         <p class="card-text text-center">Energy</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col mb-3">
-                                <div class="card custom-shadow wow animated fadeInUp" style="width: 15rem;">
+                            <div class="col-md-3 mb-4">
+                                <div class="card custom-shadow wow animated fadeInUp">
                                     <div class="card-body">
                                         <div class="text-center"><i style="font-size: 50px;" class=" fa fa-graduation-cap"></i></div>
                                         <p class="card-text text-center">Educations</p>
@@ -533,34 +533,34 @@
                                 </div>
                             </div>
                         </div>
-                        <br>
-                        <div class="row row-cols-1 row-cols-md-3">
-                            <div class="col mb-3">
-                                <div class="card custom-shadow wow animated fadeInUp" style="width: 15rem;">
+
+                        <div class="row">
+                            <div class="col-md-3 mb-4">
+                                <div class="card custom-shadow wow animated fadeInUp">
                                     <div class="card-body">
                                         <div class="text-center"><i style="font-size: 50px;" class=" fa fa-flag "></i></div>
                                         <p class="card-text text-center">Gorvernment</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col mb-3">
-                                <div class="card custom-shadow wow animated fadeInUp" style="width: 15rem;">
+                            <div class="col-md-3 mb-4">
+                                <div class="card custom-shadow wow animated fadeInUp">
                                     <div class="card-body">
                                         <div class="text-center"><i style="font-size: 50px;" class=" fa fa-music"></i></div>
-                                        <p class="card-text text-center">Media Entertainment</p>
+                                        <p class="card-text text-center">Media </p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col mb-3">
-                                <div class="card custom-shadow wow animated fadeInUp" style="width: 15rem;">
+                            <div class="col-md-3 mb-4">
+                                <div class="card custom-shadow wow animated fadeInUp">
                                     <div class="card-body">
                                         <div class="text-center"><i style="font-size: 50px;" class=" fa fa-fort-awesome"></i></div>
                                         <p class="card-text text-center">Pharm and Biotect</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col mb-3">
-                                <div class="card custom-shadow wow animated fadeInUp" style="width: 15rem;">
+                            <div class="col-md-3 mb-4">
+                                <div class="card custom-shadow wow animated fadeInUp">
                                     <div class="card-body">
                                         <div class="text-center"><i style="font-size: 50px;" class=" fa fa-ticket"></i></div>
                                         <p class="card-text text-center">Insurance</p>
