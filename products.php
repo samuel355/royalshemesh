@@ -200,7 +200,7 @@
                             <div class="single-feature wow fadeInUp ">
                                 <div class="icon-head"><i class="fa fa-connectdevelop"></i></div><br>
                                 <h2>Whistleblower Systems</h2><br>
-                                <p style="font-size: 19px">A whistleblower system which basically allows citizens to anonymously report crime. Good for government institutions or even the private sector ( banks etc).</p>
+                                <p style="font-size: 18px">A whistleblower system which basically allows citizens to anonymously report crime.<br> Good for government institutions or even the private sector ( banks etc).</p>
                             </div>
                         </div>
                     </div>
@@ -209,7 +209,7 @@
                             <div class="single-feature wow fadeInUp ">
                                 <div class="icon-head"><i class="fa fa-database"></i></div> <br>
                                 <h2>Stock Management System</h2><br>
-                                <p style="font-size: 19px">We develop stock and inventory management solution that allows distributors to link with retailer (both commercial and consumer) to allow them to order goods through the system.</p>
+                                <p style="font-size: 18px">We develop stock and inventory management solution that allows distributors to link with retailer (both commercial and consumer) to allow them to order goods through the system.</p>
                             </div>
                         </div>
                     </div>
@@ -220,8 +220,8 @@
                             <div class="single-feature wow fadeInUp ">
                                 <div class="icon-head"><i class="fa fa-header"></i></div> <br>
                                 <h2>Health Applications</h2><br>
-                                <p style="font-size: 19px">
-                                    Our Health Management Software integrates data across healthcare IT systems and stores and aggregates patient data for analysis. These tools provide a large patient data resource and set of analytic tools to better predict and manage illnesses and diseases. These products aim to improve efficiency and cost-effectiveness of the practice and improve the quality of individualized patient care. The accessibility and integration of data leads to better prediction of individual health risks, and a more accurate big picture analysis of community health trends.
+                                <p style="font-size: 18px">
+                                    Our Health Management Software integrates data across healthcare IT systems and stores and aggregates patient data for analysis. <br> These tools provide a large patient data resource and set of analytic tools to better predict and manage illnesses and diseases. These products aim to improve efficiency and cost-effectiveness of the practice and improve the quality of individualized patient care. The accessibility and integration of data leads to better prediction of individual health risks, and a more accurate big picture analysis of community health trends.
                                 </p>
                             </div>
                         </div>
@@ -231,7 +231,7 @@
                             <div class="single-feature wow fadeInUp ">
                                 <div class="icon-head"><i class="fa fa-database"></i></div> <br>
                                 <h2>School Management Portal </h2>
-                                <p style="font-size: 19px">
+                                <p style="font-size: 18px">
                                     Our student management system (also known as a student management portal) helps schools to manage data, communications, and scheduling. Our system generates and uses a large amount of data. This data is communicated appropriately to students, faculty, and parents. Our system helps schools to store, manage, distribute this information and are designed to serve all of a school’s data management needs. Some features include: student information storage, including grades and attendance, report generation, tool-assisted scheduling, access portal for students and parents, enrollment or registration management and many more.
                                 </p>
                             </div>
@@ -244,7 +244,7 @@
                             <div class="single-feature wow fadeInUp ">
                                 <div class="icon-head"><i class="fa fa-shopping-cart"></i></div><br>
                                 <h2>E-commerce Systems</h2><br>
-                                <p style="font-size: 19px">
+                                <p style="font-size: 18px">
                                     Our e-commerce system, referred to as online storefronts, allows shoppers to browse through the merchant’s product catalog and purchase products online. Features include online storefront, product catalog, online shopping cart, merchant interface dashboard, E-commerce marketing tools, order fulfillment and many more.
                                 </p>
                             </div>
@@ -252,7 +252,8 @@
                     </div>
                 </div>
 			</div>
-		</section>	
+		</section>
+
 		<!--/ End Services -->
 
             <div class="container">

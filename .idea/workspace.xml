@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b8737eb-cf2e-4e6b-a775-6971e1ad683c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/cyberback.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cyber-security.php" beforeDir="false" afterPath="$PROJECT_DIR$/cyber-security.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cybersecurityproducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/cybersecurityproducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/products.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +90,7 @@
       <workItem from="1593440282066" duration="1454000" />
       <workItem from="1593814107280" duration="56000" />
       <workItem from="1593814920114" duration="12126000" />
-      <workItem from="1593860533047" duration="3891000" />
+      <workItem from="1593860533047" duration="4257000" />
     </task>
     <servers />
   </component>
