@@ -185,7 +185,7 @@
 					<div class="col-lg-12">
 						<!-- Service Image -->
 						<div class="service-img text-center">
-							<img class="img-fluid custom-shadow wow fadeInUp" src="img/consult.jpg" alt="re">
+							<img style="width: 100%; height: 600px" class="img-fluid custom-shadow wow fadeInUp" src="img/consult.jpg" alt="re">
 						</div> <br>
                         <!-- Service Content -->
                         <div class="service-content wow fadeInUp">

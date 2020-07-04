@@ -217,7 +217,7 @@
             <div class="row">
                 <div class="col col-md-4 col-sm-6 mb-4">
                     <div class="card wow fadeInUp custom-shadow">
-                        <img src="img/solar-products/LRCwithsensor.jpg" class="card-img-top img-fluid" alt="...">
+                        <img style="width: 100%; height: 200px" src="img/solar-products/LRCwithsensor.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LRC05W (With Sensor) </h5>
                             <ul class="list-group list-group-flush">
@@ -233,7 +233,7 @@
                 </div>
                 <div class="col col-md-4 col-sm-6 mb-4">
                     <div class="card wow fadeInUp custom-shadow">
-                        <img src="img/solar-products/LGA.png" class="card-img-top img-fluid" alt="...">
+                        <img style="width: 100%; height: 225px" src="img/solar-products/LGA.png" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LGA15W </h5>
                             <ul class="list-group list-group-flush">
@@ -249,7 +249,7 @@
                 </div>
                 <div class="col col-md-4 col-sm-6 mb-4">
                     <div class="card custom-shadow wow fadeInUp">
-                        <img src="img/solar-products/LRE.jpg" class="card-img-top img-fluid" alt="...">
+                        <img style="width: 100%; height: 225px" src="img/solar-products/LRE.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LRE20W </h5>
                             <ul class="list-group list-group-flush">
@@ -267,7 +267,7 @@
             <div class="row">
                 <div class="col col-md-4 col-sm-6 mb-4">
                     <div class="card custom-shadow wow fadeInUp">
-                        <img src="img/solar-products/LRE30W.jpg" class="card-img-top img-fluid" alt="...">
+                        <img style="width: 100%; height: 200px" src="img/solar-products/LRE30W.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LRE30W </h5>
                             <ul class="list-group list-group-flush">
@@ -283,7 +283,7 @@
                 </div>
                 <div class="col col-md-4 col-sm-6 mb-4">
                     <div class="card custom-shadow wow fadeInUp">
-                        <img src="img/solar-products/LRE40W.jpg" class="card-img-top img-fluid" alt="...">
+                        <img style="width: 100%; height: 200px" src="img/solar-products/LRE40W.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LRE40W </h5>
                             <ul class="list-group list-group-flush">
@@ -299,7 +299,7 @@
                 </div>
                 <div class="col col-md-4 col-sm-6 mb-4">
                     <div class="card custom-shadow wow fadeInUp">
-                        <img src="img/solar-products/LRE60W.jpg" class="card-img-top img-fluid " alt="...">
+                        <img style="width: 100%; height: 200px" src="img/solar-products/LRE60W.jpg" class="card-img-top img-fluid " alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LRE60W </h5>
                             <ul class="list-group list-group-flush">
@@ -317,7 +317,7 @@
             <div class="row">
                 <div class="col col-md-4 col-sm-6 mb-4">
                     <div class="card custom-shadow wow fadeInUp">
-                        <img src="img/solar-products/LRE80W.jpg" class="card-img-top img-fluid " alt="...">
+                        <img style="width: 100%; height: 235px" src="img/solar-products/LRE80W.jpg" class="card-img-top img-fluid " alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LRE80W </h5>
                             <ul class="list-group list-group-flush">
@@ -332,7 +332,7 @@
                 </div>
                 <div class="col col-md-4 col-sm-6 mb-4">
                     <div class="card custom-shadow wow fadeInUp">
-                        <img src="img/solar-products/LRC20W.png" class="card-img-top img-fluid " alt="...">
+                        <img style="width: 100%; height: 185px" src="img/solar-products/LRC20W.png" class="card-img-top img-fluid " alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Model No.: LRC20W-001GC2 </h5>
                             <ul class="list-group list-group-flush">
