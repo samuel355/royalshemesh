@@ -51,7 +51,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
     <style>
         body,h1,h2,h3,h4,h5,h6,p,a{font-family: Montserrat}
-        p{font-size: 20px; line-height: 30px;}
+        p{font-size: 18px; line-height: 30px;}
         li>a{font-size: 17px}
         .gradient-background{
             background: rgb(2,0,36);
@@ -183,9 +183,9 @@
 			</div>
 		</div>
 		<!-- / End Breadcrumb -->
-        <div class="container-fluid gradient-background" style="padding: 10px">
+        <div class="container-fluid" style="padding: 10px">
                 <div class="row">
-                    <div  class="col-lg-5 offset-lg-1 col-md-6 col-12"> <br> <br> <br>
+                    <div  class="col-lg-5 offset-lg-1 col-md-6 col-12" style="margin-top: 30px"> <br> <br> <br> <br>
                         <div class="modern-img-feature">
                             <img class="wow fadeInUp" src="img/cyvolve.jpg" alt="#">
                         </div>
@@ -194,11 +194,11 @@
                     <div class="col-lg-6 col-md-6 col-12">
                         <div class="align-content-center align-items-center justify-content-center"><br> <br>
                             <div class="service-content">
-                                <h1 class="wow animated fadeInUp text-center text-white">What is CyOS</h1><br>
-                                <p class="wow animated fadeInDown text-white" style="margin-bottom: 10px"> CyOS is the <span style="font-family: Sans-Serif;color: #d9900f; font-weight: bolder; font-size: 25px;">Evolution of Data Security,</span> built for security with functionality layered in.</p> <br>
-                                <p class="wow animated fadeInDown text-white" style="margin-bottom: 10px"> CyOS guarantees constant <span style=" font-weight: bolder; color: #d9900f ">Data encryption, </span> leaving you always in control of your data and its permissions, no matter where the file is or who is in possesion of it.</p>
-                                <p class="wow animated fadeInDown text-white" style="margin-bottom: 10px"> Our evolved <span style="font-weight: bolder; color: #d9900f; font-family: Raleway; font-size: 25px">AI Algorithms </span> and <span style="color: #d9900f; font-weight: bolder;  font-family: Raleway; font-size: 25px">Data Analysis </span> ensures that unusual activity is detected, monitored and primed for action if necessary.</p>
-                                <p class="wow animated fadeInDown text-white" style="margin-bottom: 10px"> Leaving no room for intruders to take advantage when no one is watching, because CyOS is always watching</p>
+                                <h3 class="wow animated fadeInUp text-center">What is CyOS</h3><br>
+                                <p class="wow animated fadeInDown" style="margin-bottom: 10px"> CyOS is the <span style="font-family: Sans-Serif;color: #d9900f; font-weight: bolder; font-size: 25px;">Evolution of Data Security,</span> built for security with functionality layered in.</p> <br>
+                                <p class="wow animated fadeInDown" style="margin-bottom: 10px"> CyOS guarantees constant <span style=" font-weight: bolder; color: #d9900f ">Data encryption, </span> leaving you always in control of your data and its permissions, no matter where the file is or who is in possesion of it.</p>
+                                <p class="wow animated fadeInDown" style="margin-bottom: 10px"> Our evolved <span style="font-weight: bolder; color: #d9900f; font-family: Raleway; font-size: 25px">AI Algorithms </span> and <span style="color: #d9900f; font-weight: bolder;  font-family: Raleway; font-size: 25px">Data Analysis </span> ensures that unusual activity is detected, monitored and primed for action if necessary.</p>
+                                <p class="wow animated fadeInDown" style="margin-bottom: 10px"> Leaving no room for intruders to take advantage when no one is watching, because CyOS is always watching</p>
                             </div>
                         </div>
                     </div>
@@ -208,21 +208,13 @@
 
          <div class="container">
              <div class="row">
-                 <div class="col-sm">
-                            <div class="service-content">
-                                <h2 class="text-center animated wow bounceIn"> CyOS Security Platforms </h2>
-                            </div>
-                        </div>
-             </div> <br>
-
-             <div class="row">
-                 <div class="col-sm">
+                 <div class="col-sm-12">
                      <div class="service-content">
-                         <h2 class="text-center text-white wow animated bounceInRight"> CyOS Security Platforms </h2>
+                         <h2 class="text-center animated wow bounceIn"> CyOS Security Features </h2>
+                         <p class="text-center">CyOS unites artificial intelligence with pervasive encryption and total data control to user inthe next generation of cybersecurity.</p>
                      </div>
                  </div>
-             </div>
-
+             </div> <br>
 
 
              <!-- flipping cards-->

@@ -185,7 +185,7 @@
 		<!-- / End Breadcrumb -->
 		
 		<!-- Service Single -->
-		<section class="service-single section-space gradient-background">
+		<section class="service-single section-space">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
@@ -195,10 +195,10 @@
 						</div> <br>
                         <!-- Service Content -->
                         <div class="service-content wow fadeInUp">
-                            <h2 class="wow text-white fadeInUp text-center" style="color: #d9900f">Royal Shemesh – Renewable Energy Solution</h2>
-                            <p class="wow text-white bounceInLeft"><span style="font-family: Raleway; color: #d9900f; font-weight: bolder; font-size: 24px"> <span style="font-size: 30px; color: #d9900f">R</span>oyal Shemesh Renewable</span> energy is an enterprise that is into the provision of renewable energy to help bridge the energy gap in Africa. The company has the aim of reducing the reliance on traditional energy solutions, reduction in carbon emissions and championing the course of clean and natural energy solutions like solar.</p>
-                            <p class="wow text-white rotateInDownLeft">The <span style="font-family: Raleway; color: #d9900f font-weight: bolder; font-size: 24px">Royal Shemesh Limited</span> is an enterprise that is into the provision of renewable energy to help bridge the energy gap in Africa. The company has the aim of reducing the reliance on traditional energy solutions, reduction in carbon emissions and championing the course of clean and natural energy solutions like solar. <br /> Royal Shemesh is pleased to present a detailed Photovoltaic (PV ) and Building integrated photovoltaic ( BIPV) services. We understand the energy crises in the country and have developed varying solutions to curb the situation.</p>
-                            <p class="wow text-white fadeInUp">Having clearly examined the energy expenditure or situation, we are confident that our services will effectively address your needs. We have a formidable team with great minds working together to make this vision and dream of the company a reality. Our unique ability to prove this professional service with the highest level of efficiency and our successful track record of our foreign partners makes us an invaluable partner in the PV and BIPV service market. We look forward to forming a synergistic alliance with your noble outfit.</p>
+                            <h2 class="wow fadeInUp text-center" style="color: #d9900f">Royal Shemesh – Renewable Energy Solution</h2>
+                            <p class="wow bounceInLeft"><span style="font-family: Raleway; color: #d9900f; font-weight: bolder; font-size: 24px"> <span style="font-size: 30px; color: #d9900f">R</span>oyal Shemesh Renewable</span> energy is an enterprise that is into the provision of renewable energy to help bridge the energy gap in Africa. The company has the aim of reducing the reliance on traditional energy solutions, reduction in carbon emissions and championing the course of clean and natural energy solutions like solar.</p>
+                            <p class="wow rotateInDownLeft">The <span style="font-family: Raleway; color: #d9900f font-weight: bolder; font-size: 24px">Royal Shemesh Limited</span> is an enterprise that is into the provision of renewable energy to help bridge the energy gap in Africa. The company has the aim of reducing the reliance on traditional energy solutions, reduction in carbon emissions and championing the course of clean and natural energy solutions like solar. <br /> Royal Shemesh is pleased to present a detailed Photovoltaic (PV ) and Building integrated photovoltaic ( BIPV) services. We understand the energy crises in the country and have developed varying solutions to curb the situation.</p>
+                            <p class="wow fadeInUp">Having clearly examined the energy expenditure or situation, we are confident that our services will effectively address your needs. We have a formidable team with great minds working together to make this vision and dream of the company a reality. Our unique ability to prove this professional service with the highest level of efficiency and our successful track record of our foreign partners makes us an invaluable partner in the PV and BIPV service market. We look forward to forming a synergistic alliance with your noble outfit.</p>
                         </div>
 					</div>
 				</div>

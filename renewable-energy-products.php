@@ -184,15 +184,15 @@
     </div>
     <!-- / End Breadcrumb -->
 
-    <div class="container-fluid gradient-background" style="padding: 10px">
+    <div class="container-fluid" style="padding: 10px">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-12">
                     <div class="align-content-center align-items-center justify-content-center"><br> <br>
                         <div>
-                            <h2 class="text-center wow fadeInUp text-white" > Our Product</h2> <br>
+                            <h2 class="text-center wow fadeInUp" > Our Products</h2> <br>
                         </div>
-                        <p class="wow fadeInUp text-white" >Royal Shemesh - Having clearly examined the energy expenditure or situation, we are confident that our services will effectively address your needs.
+                        <p class="wow fadeInUp " >Royal Shemesh - Having clearly examined the energy expenditure or situation, we are confident that our services will effectively address your needs.
                             We have a formidable team with great minds working together to make this vision and dream of the company a reality.
                             Our unique ability to prove this professional service with the highest level of efficiency and our successful track record of our foreign partners makes us an invaluable partner in the PV and BIPV service market.
                             We look forward to forming a synergistic alliance with your noble outfit.
@@ -213,7 +213,7 @@
         <div class="container">
             <div class="service-content">
                 <h2 class="wow rotateInDownLeft text-center" style="color: darkblue">Royal Shemesh – Solar Energy Products</h2>
-            </div>
+            </div><br>
             <div class="row">
                 <div class="col col-md-4 col-sm-6 mb-4">
                     <div class="card wow fadeInUp custom-shadow">

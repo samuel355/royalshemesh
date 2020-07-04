@@ -217,6 +217,7 @@
                                 <div class="service-content">
                                     <h1 class="text-center text-dark wow animated bounceInUp"> Industries We serve</h1>
                                 </div>
+                                <p> As a direct result of the security, auditability adn controllability of all data within CyOS ecosystem across multiple disparate networks and cloud systems, all client data will be inherently compliant</p>
                             </div>
                         </div>
                         <br>

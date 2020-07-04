@@ -190,7 +190,7 @@
 					<div class="col-lg-12">
 						<!-- Service Image -->
 						<div class="service-img text-center">
-							<img class="custom-shadow wow fadeInUp img-fluid" src="img/products.jpg" alt="products">
+							<img style="width: 100%; height: 500px" class="custom-shadow wow fadeInUp img-fluid" src="img/products.jpg" alt="products">
 						</div>
 					</div>
 				</div> <br>
@@ -218,10 +218,10 @@
                     <div class="col-sm-6">
                         <div class="service-content">
                             <div class="single-feature wow fadeInUp ">
-                                <div class="icon-head"><i class="fa fa-shopping-cart"></i></div><br>
-                                <h2>E-commerce Systems</h2><br>
+                                <div class="icon-head"><i class="fa fa-header"></i></div> <br>
+                                <h2>Health Applications</h2><br>
                                 <p style="font-size: 19px">
-                                    Our e-commerce system, referred to as online storefronts, allows shoppers to browse through the merchant’s product catalog and purchase products online. Features include online storefront, product catalog, online shopping cart, merchant interface dashboard, E-commerce marketing tools, order fulfillment and many more.
+                                    Our Health Management Software integrates data across healthcare IT systems and stores and aggregates patient data for analysis. These tools provide a large patient data resource and set of analytic tools to better predict and manage illnesses and diseases. These products aim to improve efficiency and cost-effectiveness of the practice and improve the quality of individualized patient care. The accessibility and integration of data leads to better prediction of individual health risks, and a more accurate big picture analysis of community health trends.
                                 </p>
                             </div>
                         </div>
@@ -229,10 +229,10 @@
                     <div class="col-sm-6">
                         <div class="service-content">
                             <div class="single-feature wow fadeInUp ">
-                                <div class="icon-head"><i class="fa fa-header"></i></div> <br>
-                                <h2>Health Applications</h2><br>
+                                <div class="icon-head"><i class="fa fa-database"></i></div> <br>
+                                <h2>School Management Portal </h2>
                                 <p style="font-size: 19px">
-                                    Our Health Management Software integrates data across healthcare IT systems and stores and aggregates patient data for analysis. These tools provide a large patient data resource and set of analytic tools to better predict and manage illnesses and diseases. These products aim to improve efficiency and cost-effectiveness of the practice and improve the quality of individualized patient care. The accessibility and integration of data leads to better prediction of individual health risks, and a more accurate big picture analysis of community health trends.
+                                    Our student management system (also known as a student management portal) helps schools to manage data, communications, and scheduling. Our system generates and uses a large amount of data. This data is communicated appropriately to students, faculty, and parents. Our system helps schools to store, manage, distribute this information and are designed to serve all of a school’s data management needs. Some features include: student information storage, including grades and attendance, report generation, tool-assisted scheduling, access portal for students and parents, enrollment or registration management and many more.
                                 </p>
                             </div>
                         </div>
@@ -242,10 +242,10 @@
                     <div class="col-sm-6">
                         <div class="service-content">
                             <div class="single-feature wow fadeInUp ">
-                                <div class="icon-head"><i class="fa fa-database"></i></div> <br>
-                                <h2>School Management Portal </h2>
+                                <div class="icon-head"><i class="fa fa-shopping-cart"></i></div><br>
+                                <h2>E-commerce Systems</h2><br>
                                 <p style="font-size: 19px">
-                                    Our student management system (also known as a student management portal) helps schools to manage data, communications, and scheduling. Our system generates and uses a large amount of data. This data is communicated appropriately to students, faculty, and parents. Our system helps schools to store, manage, distribute this information and are designed to serve all of a school’s data management needs. Some features include: student information storage, including grades and attendance, report generation, tool-assisted scheduling, access portal for students and parents, enrollment or registration management and many more.
+                                    Our e-commerce system, referred to as online storefronts, allows shoppers to browse through the merchant’s product catalog and purchase products online. Features include online storefront, product catalog, online shopping cart, merchant interface dashboard, E-commerce marketing tools, order fulfillment and many more.
                                 </p>
                             </div>
                         </div>
