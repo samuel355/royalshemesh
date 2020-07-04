@@ -50,7 +50,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
     <style>
         body,h1,h2,h3,h4,h5,h6,p,a{font-family: Montserrat}
-        p{font-size: 20px; line-height: 30px;}
+        p{font-size: 18px; line-height: 30px;}
         li>a{font-size: 17px}
         .gradient-background{
             background: rgb(2,0,36);
@@ -92,6 +92,7 @@
 			</div>
 			<!--/ End Topbar -->
 			<!-- Middle Header -->
+
 			<div class="middle-header">
 				<div class="container">
 					<div class="row">
@@ -158,7 +159,6 @@
 				</div>
 			</div>
 			<!--/ End Middle Header -->
-		
 		</header>
 		<!--/ End Header -->
 		
@@ -183,13 +183,34 @@
 			</div>
 		</div>
 		<!-- / End Breadcrumb -->
-		
+
+         <div class="container-fluid">
+                <div class="row">
+                    <div  class="col-md-4 mb-4" style="margin-top: 30px"> <br>
+                        <div>
+                            <img style="width: 100%; height: 350px" class="wow fadeInUp" src="img/cyvolve.jpg" alt="#">
+                        </div>
+                    </div>
+                    <div class="col-md-8 mb-4">
+                        <div class="align-content-center align-items-center justify-content-center"><br> <br>
+                            <div class="service-content">
+                                <p class="wow animated fadeInDown">Our focus is on providing Cybersecurity solutions that empower organizations to protect, share, and manage their valuable data with the confidence that they will remain in total control of that data at all times. </p>
+                                <p class="wow animated fadeInDown">We have formed a synergetic alliance with a world leader in the provision of Cybersecurity solutions for companies and governments to help supply the Ghanaian market with the next great help forward in data security, ensuring constant encryption and pervasive control over all your data. </p>
+                                <p class="wow animated fadeInDown">We have formidable team with great minds working together to make this vision and dream of the company reality. Our team is made up of qualified and experienced technical staff to aid in setting up your office against any Cybersecuity threat.</p>
+                                <p class="wow animated fadeInDown">Our unique ability to prove this professional service with the highest level of efficiency and our successful track record of our foreign partners makes us an invaluable partner in the Cybersecurity solutionss market</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div> <br>
+
 		<!-- Service Single -->
             <div class="container-fluid animated fadeIn bg-light">
                 <section class="service-single section-space">
                     <div class="container">
                         <div class="row row-cols-1 row-cols-md-3">
-                            <div class="mb-4 col-lg-5" style="background-image: url('img/cyber.jpg');background-size: cover; height: 408px; width: 100%">
+                            <div class="mb-4 col-lg-5" style="background-image: url('img/cyber.jpg'); height: 340px; width: 100%; border-radius: 10px">
 
                             </div>
                             <div class="mb-4 col-lg-7">
@@ -216,7 +237,7 @@
                             <div class="col-sm-12">
                                 <div class="service-content">
                                     <h1 class="text-center text-dark wow animated bounceInUp"> Industries We serve</h1>
-                                </div>
+                                </div><br>
                                 <p> As a direct result of the security, auditability adn controllability of all data within CyOS ecosystem across multiple disparate networks and cloud systems, all client data will be inherently compliant</p>
                             </div>
                         </div>

@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b8737eb-cf2e-4e6b-a775-6971e1ad683c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/cyberback.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cyber-security.php" beforeDir="false" afterPath="$PROJECT_DIR$/cyber-security.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cybersecurityproducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/cybersecurityproducts.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renewable-energy-products.php" beforeDir="false" afterPath="$PROJECT_DIR$/renewable-energy-products.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renewal-energy.php" beforeDir="false" afterPath="$PROJECT_DIR$/renewal-energy.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/clients" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -51,6 +50,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\royalshemesh\img" />
       <recent name="C:\xampp\htdocs\royalshemeshnew.com\img\clients" />
       <recent name="C:\xampp\htdocs\royalshemeshnew.com\img" />
       <recent name="C:\xampp\htdocs\royalshemesh.com\img" />
@@ -91,7 +91,8 @@
       <workItem from="1593334983497" duration="19946000" />
       <workItem from="1593440282066" duration="1454000" />
       <workItem from="1593814107280" duration="56000" />
-      <workItem from="1593814920114" duration="11518000" />
+      <workItem from="1593814920114" duration="12126000" />
+      <workItem from="1593860533047" duration="3891000" />
     </task>
     <servers />
   </component>
@@ -115,10 +116,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1593338008153" />
-    <state x="480" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1593814931329">
+    <state x="480" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1593860633764">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="480" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1593814931329" />
+    <state x="480" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1593860633764" />
     <state x="456" y="195" key="run.anything.popup" timestamp="1593816227311">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
