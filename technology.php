@@ -186,48 +186,71 @@
 		<!-- Service Single -->
 		<section class="service-single section-space">
 			<div class="container">
-				<div class="row">
-					<div class="col-lg-12">
-						<!-- Service Image -->
-						<div class="service-img text-center">
-							<img class="custom-shadow img-fluid wow fadeInUp" src="img/technology.jpg" alt="technology">
-						</div> <br>
-						<!-- Service Content -->
-						<div class="service-content">
-                            <div class="single-feature wow fadeInUp ">
-                                <div class="icon-head"><i class="fa fa-database"></i></div><br>
-							    <h2>Stock Management System</h2> <br>
-							    <p style="font-size: 20px">We develop stock and inventory management solution that allows distributors to link with retailer (both commercial and consumer) to allow them to order goods through the system.</p>
-                            </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- Service Image -->
+                        <div class="service-img text-center">
+                            <img class="custom-shadow img-fluid wow fadeInUp" src="img/technology.jpg" alt="technology">
+                        </div> <br>
+                    </div>
+                </div>
 
-                            <div class="single-feature wow bounceInRight">
-                                <div class="icon-head"><i class="fa fa-adn"></i></div><br>
-							    <h2>Mobile and Web Applications</h2><br>
-                                <p style="font-size: 20px">App Development; We deploy customized solutions for each client while constantly learning from their challenges.</p>
-                                <p style="font-size: 20px">Web Development; We engineer dynamic and flexible web apps matching our clients need and provide regular maintenance.</p>
-                            </div>
-
+                <div class="row">
+                    <div class="col-md-6 mb-4">
+                        <div class="service-content">
                             <div class="single-feature wow fadeInUp">
                                 <div class="icon-head"><i class="fa fa-connectdevelop"></i></div><br>
-							    <h2>Whistelblowing Systems </h2><br>
-							    <p style="font-size: 20px">A whistleblower system which basically allows citizens to anonymously report crime. Good for government institutions or even the private sector ( banks etc).</p>
+                                <h2>Whistelblowing Systems </h2><br>
+                                <p style="font-size: 20px">A whistleblower system which basically allows citizens to anonymously report crime. Good for government institutions or even the private sector ( banks etc).</p>
                             </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 mb-4">
+                        <div class="service-content">
                             <div class="single-feature wow bounceInLeft">
                                 <div class="icon-head"><i class="fa fa-slideshare"></i></div><br>
                                 <h2>Media Production </h2><br>
                                 <p style="font-size: 20px">We produce professional, slick and dynmaic outcomes through videos, photos and more. Here's a best way to build a successful media to boost your customer experience. </p>
                             </div>
-
+                        </div>
+                    </div>
+                </div>
+				<div class="row">
+                    <div class="col-md-6 mb-4">
+                        <div class="service-content">
                             <div class="single-feature wow fadeInUp">
                                 <div class="icon-head"><i class="fa fa-skyatlas"></i></div> <br>
-							    <h2 class="wow fadeInUp">Robotic Process Automation  </h2> <br>
+                                <h2 class="wow fadeInUp">Robotic Process Automation  </h2> <br>
                                 <p style="font-size: 20px" class="wow fadeInUp"> We develop automation system that can work in any workplace. Our solutions strives in business area as Finance and accounting, Operations, Customer services, etc.
-                                Without human intervention, our RPA can automate tasks like invoicing, complex adiministrative tasks, front office support and many more in a customize sequence of steps that suit your business environment.
-                            </p>
+                                    Without human intervention, our RPA can automate tasks like invoicing, complex adiministrative tasks, front office support and many more in a customize sequence of steps that suit your business environment.
+                                </p>
                             </div>
-						</div>
-					</div>
-				</div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 mb-4">
+                        <div class="service-content">
+                            <div class="single-feature wow bounceInRight">
+                                <div class="icon-head"><i class="fa fa-adn"></i></div><br>
+                                <h2>Mobile and Web Applications</h2><br>
+                                <p style="font-size: 20px">App Development; We deploy customized solutions for each client while constantly learning from their challenges.</p>
+                                <p style="font-size: 20px">Web Development; We engineer dynamic and flexible web apps matching our clients need and provide regular maintenance.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-4">
+                        <!-- Service Content -->
+                        <div class="service-content">
+                            <div class="single-feature wow fadeInUp ">
+                                <div class="icon-head"><i class="fa fa-database"></i></div><br>
+                                <h2>Stock Management System</h2> <br>
+                                <p style="font-size: 20px">We develop stock and inventory management solution that allows distributors to link with retailer (both commercial and consumer) to allow them to order goods through the system.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 			</div>
 		</section>	
 		<!--/ End Services -->

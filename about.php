@@ -214,26 +214,25 @@
 					</div>
 				</div>
 			</div> <br>
-            <div class="container-fluid gradient-background" style="padding: 10px">
+            <div class="container " style="padding: 10px">
                 <div class="row">
-                    <div  class="col-lg-5 offset-lg-1 col-md-6 col-12">
-                        <div class="modern-img-feature">
-                            <img class="wow fadeInUp" src="img/about-1.jpg" alt="#">
-                        </div>
-                    </div>
                     <div class="col-lg-6 col-md-6 col-12">
                         <div class="align-content-center align-items-center justify-content-center"><br> <br> <br>
                             <div>
-                                <h2 class="text-center wow fadeInUp text-white" > Smart Solutions </h2> <br>
+                                <h2 class="text-center wow fadeInUp " > Smart Solutions </h2> <br>
                             </div>
-                            <p class="wow fadeInUp text-white" > <em> Royal Shemesh has a dedicated team of IT professionals and Business Solutions experts with years of practical experience in the IT industry.</em>
+                            <p class="wow fadeInUp " > <em> Royal Shemesh has a dedicated team of IT professionals and Business Solutions experts with years of practical experience in the IT industry.</em>
                             </p> <br>
                             <div class="button text-center">
                                 <a href="about.php" class="bizwheel-btn text-center btn" role="button" type="button"  style="background-color: #d9900f; font-size: 19px">Read More</a>
                             </div>
                         </div>
                     </div>
-
+                    <div  class="col-lg-5 offset-lg-1 col-md-6 col-12">
+                        <div class="modern-img-feature">
+                            <img class="wow fadeInUp" src="img/about-1.jpg" alt="#">
+                        </div>
+                    </div>
                 </div>
             </div>
 		</section>	
