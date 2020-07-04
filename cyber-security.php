@@ -185,7 +185,7 @@
 		<!-- / End Breadcrumb -->
 		
 		<!-- Service Single -->
-            <div class="container-fluid animated fadeIn gradient-background">
+            <div class="container-fluid animated fadeIn bg-light">
                 <section class="service-single section-space">
                     <div class="container">
                         <div class="row row-cols-1 row-cols-md-3">
@@ -195,8 +195,8 @@
                             <div class="mb-4 col-lg-7">
                                 <!-- Service Content -->
                                 <div class="service-content">
-                                    <h2 class="text-white wow animated fadeInUp">Royal Shemesh – Cyber Security</h2>
-                                    <p class="text-white wow animated fadeInUp">
+                                    <h2 class="text-dark wow animated fadeInUp">Royal Shemesh – Cyber Security</h2>
+                                    <p class="text-dark wow animated fadeInUp">
                                         We have a unique form of cybersecurity that centralizes data control across disparate platforms and domains. A unified platform that provides superior data control, leading to superior cybersecurity and auditing. Built around a sophisticated hierarchical permissions system with data categorization tied to dynamic multi-factor authentication tokens. Our solution protects you against internal theft from authorized users equally as well as against hackers. Benefits to organizations using our security solution includes:
                                     </p>
                                 </div>
@@ -205,302 +205,23 @@
                         <div class="row row-cols-1 row-cols-md-3">
                             <div class="col-md-12">
                                 <ul style="line-height: 40px">
-                                    <li style="list-style-type: disc; font-family: Raleway; font-size: 19px" class="text-white wow animated fadeInUp font-weight-light">Data protection of any type, on any operating system, on any device, any network or the cloud.</li>
-                                    <li style="list-style-type: disc; font-family: Raleway; font-size: 19px" class="text-white wow animated fadeInUp font-weight-light">Easy scaling our services up or down as organization needs evolve, while lowering cost.</li>
-                                    <li style="list-style-type: disc; font-family: Raleway; font-size: 19px" class="text-white wow animated fadeInUp font-weight-light">Simple deployment that requires no formal training and No additional IT infrastructure required.</li>
+                                    <li style="list-style-type: disc; font-family: Raleway; font-size: 19px" class="text-dark wow animated fadeInUp font-weight-light">Data protection of any type, on any operating system, on any device, any network or the cloud.</li>
+                                    <li style="list-style-type: disc; font-family: Raleway; font-size: 19px" class="text-dark wow animated fadeInUp font-weight-light">Easy scaling our services up or down as organization needs evolve, while lowering cost.</li>
+                                    <li style="list-style-type: disc; font-family: Raleway; font-size: 19px" class="text-dark wow animated fadeInUp font-weight-light">Simple deployment that requires no formal training and No additional IT infrastructure required.</li>
                                 </ul>
                             </div>
-                        </div> <br>
-                        <hr>
-
-                        <div class="row">
-                            <div class="col-lg-8">
-                                <!-- Service Content -->
-                                <div class="service-content">
-                                    <h1 class="wow text-white animated fadeInUp text-center">What is CyOS</h1><br>
-                                    <p class="wow text-white animated fadeInDown" style="margin-bottom: 10px"> CyOS is the <span style="font-family: Sans-Serif; font-weight: bolder; font-size: 25px;">Evolution of Data Security,</span> built for security with functionality layered in.</p> <br>
-                                    <p class="wow text-white animated fadeInDown" style="margin-bottom: 10px"> CyOS guarantees constant <span style=" font-weight: bolder">Data encryption, </span> leaving you always in control of your data and its permissions, no matter where the file is or who is in possesion of it.</p>
-                                    <p class="wow text-white animated fadeInDown" style="margin-bottom: 10px"> Our evolved <span style="font-weight: bolder; font-family: Raleway; font-size: 25px">AI Algorithms </span> and <span style="font-weight: bolder;  font-family: Raleway; font-size: 25px">Data Analysis ensures that unusual activity is detected, monitored and primed for action if necessary.</span></p>
-                                    <p class="wow text-white animated fadeInDown" style="margin-bottom: 10px"> Leaving no room for intruders to take advantage when no one is watching, because CyOS is always watching</p>
-
-                                </div>
-                            </div>
-                            <div class="col-lg-4 text-center align-items-center align-content-center ">
-                                <img src="img/cyber-security/cyber-4.jpg" alt="" class="img-fluid wow rotateInDownLeft" style="margin-top: 80px">
-                            </div>
-                        </div><hr>
-
-                        <div class="row">
-                            <div class="col-sm">
-                                <div class="service-content">
-                                    <h2 class="text-center text-white wow animated bounceInRight"> CyOS Security Platforms </h2>
-                                </div>
-                            </div>
                         </div>
-
-                        <!-- flipping cards-->
-                        <div class="container">
-                            <div class="row">
-
-                                <!-- Card one-->
-                                <div class="col-md-4 col-sm-6">
-                                    <div class="card-container manual-flip">
-                                        <div class="card">
-                                            <div class="front">
-                                                <div class="cover">
-                                                    <img src="img/cyber-security/cyber-1.jpg" class="card-img-top img-fluid" alt="...">
-                                                </div>
-                                                <div class="content">
-                                                    <div class="text-center bg-white"><i style="font-size: 80px"  class=" fa fa-archive " onclick="rotateCard(this)"></i></div>
-                                                    <br>
-                                                    <div class="main">
-                                                        <p class="card-text text-center font-weight-bold" style="color: darkblue; font-size: 25px;">Backup and Disaster Recoverability</p>
-                                                        <div class="text-center">
-                                                            <br>
-                                                            <hr>
-                                                            <button class="btn btn-simple btn-block" type="button" role="button" style="color: darkblue" onclick="rotateCard(this)">
-                                                                <i class="fa fa-mail-forward" style="color: darkblue"></i> Read More
-                                                            </button>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- end front panel -->
-                                            <div class="back" style="overflow: auto">
-                                                <div class="content" style="overflow: auto">
-                                                    <div class="main">
-                                                        <h4 class="text-center">Backup and Disaster Recoverability</h4> <br>
-                                                        <p class="text-center">Data Backup and recovery provides comprehensive disaster recovery, business continuity, backups and version control, so data loss will no longer be a source of concern for you or the business</p>
-                                                        <p class="text-center">There is the ability to rollback without overwriting current file version, data is securely backed up and archived and recover deleted files easily, monitor changes and file status.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="text-center footer">
-                                                    <button class="btn btn-simple" style="color: darkblue" role="button" type="button" rel="tooltip" title="Flip Card" onclick="rotateCard(this)">
-                                                        <i class="fa fa-reply"></i> Back
-                                                    </button>
-                                                </div>
-                                            </div> <!-- end back panel -->
-                                        </div> <!-- end card -->
-                                    </div> <!-- end card-container -->
-                                </div>
-
-                                <!-- Card two-->
-                                <div class="col-md-4 col-sm-6">
-                                    <div class="card-container manual-flip">
-                                        <div class="card">
-                                            <div class="front">
-                                                <div class="cover">
-                                                    <img src="img/cyber-security/cyber-2.jpg" class="card-img-top img-fluid" alt="...">
-                                                </div>
-                                                <div class="content">
-                                                    <div class="text-center bg-white"><i style="font-size: 80px"  class=" fa fa-bar-chart-o" onclick="rotateCard(this)"></i></div><br>
-                                                    <div class="main">
-                                                        <p class="card-text text-center" style="color: darkblue; font-size: 25px; font-weight: bold">Dark Data Management</p>
-                                                        <br>
-                                                        <hr>
-                                                        <div class="text-center">
-                                                            <button class="btn btn-simple" style="color: darkblue" onclick="rotateCard(this)">
-                                                                <i class="fa fa-mail-forward" style="color: darkblue"></i> Read More
-                                                            </button>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- end front panel -->
-                                            <div class="back" style="overflow: auto">
-                                                <div class="content" style="overflow: auto">
-                                                    <div class="main">
-                                                        <h4 class="text-center">Dark Data Management</h4> <br>
-                                                        <p class="text-center">Once the initial catalog is created, ongoing management is inherent in the CyOS function as data can be categorized in multiple dimensions including content, location, creator, data creation, last data of edit, last read, and time destruction based on legal requirements</p>
-                                                        <p class="text-center">There is the ability to rollback without overwriting current file version, data is securely backed up and archived and recover deleted files easily, monitor changes and file status.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="footer">
-                                                    <button style="color: darkblue" class="btn btn-simple" rel="tooltip" title="Flip Card" onclick="rotateCard(this)">
-                                                        <i class="fa fa-reply"></i> Back
-                                                    </button>
-                                                </div>
-                                            </div> <!-- end back panel -->
-                                        </div> <!-- end card -->
-                                    </div> <!-- end card-container -->
-                                </div>
-
-                                <!-- Card theree-->
-                                <div class="col-md-4 col-sm-6">
-                                    <div class="card-container manual-flip">
-                                        <div class="card">
-                                            <div class="front">
-                                                <div class="cover">
-                                                    <img src="img/cyber-security/cyber-3.jpg" class="card-img-top img-fluid" alt="...">
-                                                </div>
-                                                <div class="content">
-                                                    <div class="text-center bg-white"><i style="font-size: 80px"  class=" fa fa-sun-o " onclick="rotateCard(this)"></i></div><br>
-                                                    <div class="main">
-                                                        <p class="card-text text-center" style="color: darkblue; font-weight: bold; font-size: 25px">IoT Security</p>
-                                                        <br>
-                                                        <hr>
-                                                        <div class="text-center">
-                                                            <button class="btn btn-simple" type="button" role="button" style="color: darkblue" onclick="rotateCard(this)">
-                                                                <i class="fa fa-mail-forward" style="color: darkblue"></i> Read More
-                                                            </button>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- end front panel -->
-                                            <div class="back" style="overflow: auto">
-                                                <div class="content" style="overflow: auto">
-                                                    <div class="main">
-                                                        <h4 class="text-center">IoT Security</h4> <br>
-                                                        <p class="text-center">The CyOS solution is now the only patented solution that provides serialized encryption for data packets for all IoT solutions.</p>
-                                                        <p class="text-center">This ensures that CyVolve will smoothly protect All data as it transitions for network to cloud to IoT to mobile</p>
-                                                    </div>
-                                                </div>
-                                                <div class="footer">
-                                                    <button style="color: darkblue" class="btn btn-simple" type="button" role="button" rel="tooltip" title="Flip Card" onclick="rotateCard(this)">
-                                                        <i class="fa fa-reply"></i> Back
-                                                    </button>
-                                                </div>
-                                            </div> <!-- end back panel -->
-                                        </div> <!-- end card -->
-                                    </div> <!-- end card-container -->
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="container">
-                            <div class="row">
-
-                                <!-- Card four-->
-                                <div class="col-md-4 col-sm-6">
-                                    <div class="card-container manual-flip">
-                                        <div class="card">
-                                            <div class="front">
-                                                <div class="cover">
-                                                    <img src="img/cyber-security/cyber-4.jpg" class="card-img-top img-fluid" alt="...">
-                                                </div>
-                                                <div class="content">
-                                                    <div class="text-center bg-white"><i style="font-size: 80px"  class=" fa fa-user-secret" onclick="rotateCard(this)"></i></div> <br>
-                                                    <div class="main">
-                                                        <p class="card-text text-center font-weight-bold" style="color: darkblue; font-size: 25px">Cyber Attack Protection</p>
-                                                        <div class="text-center">
-                                                            <br>
-                                                            <hr>
-                                                            <button class="btn btn-simple" role="button" type="button" style="color: darkblue" onclick="rotateCard(this)">
-                                                                <i class="fa fa-mail-forward" style="color: darkblue"></i> Read More
-                                                            </button>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- end front panel -->
-                                            <div class="back" style="overflow: auto">
-                                                <div class="content" style="overflow: auto">
-                                                    <div class="main">
-                                                        <h4 class="text-center">Cyber Attack Protection</h4> <br>
-                                                        <p class="text-center"> CyOS provides a highly disruptive and scalable technology that resolves many of today's current cybersecurity problems, and various unmet market needs</p>
-                                                        <p class="text-center"> Malware (Spywear, ransome, viruses and worms), Man-in-the-middle Attacks, and Zero-day exploits are thoroughly protected against.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="footer">
-                                                    <button style="color: darkblue" class="btn btn-simple" rel="tooltip" title="Flip Card" onclick="rotateCard(this)">
-                                                        <i class="fa fa-reply"></i> Back
-                                                    </button>
-                                                </div>
-                                            </div> <!-- end back panel -->
-                                        </div> <!-- end card -->
-                                    </div> <!-- end card-container -->
-                                </div>
-
-                                <!-- Card five-->
-                                <div class="col-md-4 col-sm-6">
-                                    <div class="card-container manual-flip">
-                                        <div class="card">
-                                            <div class="front">
-                                                <div class="cover">
-                                                    <img src="img/cyber-security/cyber-5.jpg" class="card-img-top img-fluid" alt="...">
-                                                </div>
-                                                <div class="content">
-                                                    <div class="text-center bg-white"><i style="font-size: 80px"  class=" fa fa-tachometer" onclick="rotateCard(this)"></i></div>
-                                                    <div class="main">
-                                                        <p class="card-text text-center font-weight-bold" style="color: darkblue; font-size: 25px">Compliance and Insurance</p>
-                                                        <br>
-                                                        <hr>
-                                                        <div class="text-center">
-                                                            <button class="btn btn-simple" type="button" role="button" style="color: darkblue" onclick="rotateCard(this)">
-                                                                <i class="fa fa-mail-forward" style="color: darkblue"></i> Read More
-                                                            </button>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- end front panel -->
-                                            <div class="back" style="overflow: auto">
-                                                <div class="content" style="overflow: auto">
-                                                    <div class="main">
-                                                        <h4 class="text-center">Compliance and Insurance</h4> <br>
-                                                        <p class="text-center"> As a directed result of the security, auditability and controllabiligy of all data within CyOS ecosystem across multiple disparate networks and cloud systems, all data will be inherently compliant.</p>
-                                                        <p class="text-center"> All protected data meets over 2300 individual NIST, ISO and FedRAMP controls. Revitalize existing products and systems to meet compliance standards</p>
-                                                    </div>
-                                                </div>
-                                                <div class="text-center footer">
-                                                    <button style="color: darkblue" class="btn btn-simple" role="button" type="button" rel="tooltip" title="Flip Card" onclick="rotateCard(this)">
-                                                        <i class="fa fa-reply"></i> Back
-                                                    </button>
-                                                </div>
-                                            </div> <!-- end back panel -->
-                                        </div> <!-- end card -->
-                                    </div> <!-- end card-container -->
-                                </div>
-
-                                <!-- Card six-->
-                                <div class="col-md-4 col-sm-6">
-                                    <div class="card-container manual-flip">
-                                        <div class="card">
-                                            <div class="front">
-                                                <div class="cover">
-                                                    <img src="img/cyber-security/cyber-6.jpg" class="card-img-top img-fluid" alt="...">
-                                                </div>
-                                                <div class="content">
-                                                    <div class="text-center bg-white"><i style="font-size: 80px"  class=" fa fa-gg" onclick="rotateCard(this)"></i></div> <br>
-                                                    <div class="main">
-                                                        <p class="card-text text-center" style="color: darkblue; font-size: 25px; font-weight: bold">Cross Domain Security</p>
-                                                        <br>
-                                                        <hr>
-                                                        <div class="text-center">
-                                                            <button class="btn btn-simple" type="button" role="button" style="color: darkblue;" onclick="rotateCard(this)">
-                                                                <i class="fa fa-mail-forward" style="color: darkblue"></i> Read More
-                                                            </button>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- end front panel -->
-                                            <div class="back" style="overflow: auto">
-                                                <div class="content" style="overflow: auto">
-                                                    <div class="main">
-                                                        <h4 class="text-center">Cross Domain Security</h4> <br>
-                                                        <p class="text-center"> Clients have complete control and management of their data across domains, while securely migrating to the Cloud, across mobile or IoT, and reducing IT costs.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="footer">
-                                                    <button style="color: darkblue" class="btn btn-simple" role="button" type="button" rel="tooltip" title="Flip Card" onclick="rotateCard(this)">
-                                                        <i class="fa fa-reply"></i> Back
-                                                    </button>
-                                                </div>
-                                            </div> <!-- end back panel -->
-                                        </div> <!-- end card -->
-                                    </div> <!-- end card-container -->
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- End of cards-->
-
+                        <br>
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="service-content">
-                                    <h1 class="text-center text-white wow animated bounceInUp"> Industries We serve</h1>
+                                    <h1 class="text-center text-dark wow animated bounceInUp"> Industries We serve</h1>
                                 </div>
                             </div>
                         </div>
                         <br>
                         <div class="row">
-                            <div class="col-md-4 mb-4">
+                            <div class="col-md-3 mb-4">
                                 <div class="card custom-shadow wow animated fadeInUp">
                                     <div class="card-body">
                                         <div class="text-center"><i style="font-size: 50px;" class=" fa fa-money "></i></div>

@@ -226,7 +226,7 @@
 						<div class="single-feature wow animated bounce">
 							<div class="icon-head wow rotateInUpLeft"><i class="fa fa-bullseye"></i></div>
 							<h4><a href="renewal-energy.php">Renewal Energy Solutions</a></h4>
-							<p>Our company has the aim of reducing the reliance on traditional energy solutions, reduction in carbon emissions </p>
+							<p>Our company has the aim of reducing the reliance on traditional energy solutions... </p>
 							<div class="button">
 								<a href="renewal-energy.php" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>read more</a>
 							</div>
@@ -262,7 +262,7 @@
 						<div class="single-feature wow animated bounceInRight">
 							<div class="icon-head wow rotateInDownRight"><i class="fa fa-connectdevelop"></i></div>
 							<h4><a href="events.php">Business Development Consultation</a></h4>
-							<p>We offer consultaion and coaching to men and women interested in the development of neew or existing business. We provide solutions for business development.</p>
+							<p>We offer consultaion and coaching to men and women interested in the development...</p>
 							<div class="button">
 								<a href="events.php" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>read more</a>
 							</div>
