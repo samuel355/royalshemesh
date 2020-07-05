@@ -184,7 +184,7 @@
     </div>
     <!-- / End Breadcrumb -->
 
-    <div class="container-fluid" style="padding: 10px">
+    <div class="container-fluid bg-white" style="padding: 10px">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-12">
@@ -197,13 +197,12 @@
                             Our unique ability to prove this professional service with the highest level of efficiency and our successful track record of our foreign partners makes us an invaluable partner in the PV and BIPV service market.
                             We look forward to forming a synergistic alliance with your noble outfit.
                         </p> <br>
-
-                        <p class="wow text-white rotateInDownLeft"> Explore Our Solar Energy Products Below : </p>
+                        <p class="wow rotateInDownLeft"> Explore Our Solar Energy Products Below : </p>
                     </div>
                 </div>
                 <div  class="col-lg-5 offset-lg-1 col-md-6 col-12"><br> <br> <br>
                     <div class="modern-img-feature">
-                        <img class="wow fadeInUp" src="img/re.jpg" alt="#">
+                        <img style="width: 100%; height: 400px" class="wow fadeInUp" src="img/re.jpg" alt="#">
                     </div>
                 </div>
             </div>

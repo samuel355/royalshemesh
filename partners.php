@@ -263,7 +263,7 @@
                                     <!-- Single Service -->
                                     <div class="single-service">
                                         <div class="service-head">
-                                            <a href="https://www.courageousexperience.com" target="_blank">	<img src="img/clients/corage.png" class="img-fluid" alt="Courageous"></a>
+                                            <a href="https://www.courageousexperience.com" target="_blank">	<img style="width: 100%; height: 150px" src="img/clients/corage.png" class="img-fluid" alt="Courageous"></a>
                                         </div>
                                     </div>
                                     <!--/ End Single Service -->
