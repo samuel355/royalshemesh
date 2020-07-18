@@ -51,11 +51,13 @@
         body,h1,h2,h3,h4,h5,h6,p,a{font-family: Montserrat}
         p{font-size: 19px; line-height: 30px;}
         li>a{font-size: 17px}
+		ol>li{font-size: 18px; font-family: Montserrat; line-height: 30px}
 
         .gradient-background{
             background: rgb(2,0,36);
             background: linear-gradient(6deg, rgba(2,0,36,1) 0%, rgba(7,3,116,1) 47%, rgba(2,0,36,1) 100%);
-        }
+		}
+
     </style>
 		
 	</head>
@@ -229,6 +231,30 @@
                     </div>
                 </div>
             </div>
+			<div class="container">
+				<div class="row">
+				<h4 class="text-center">Royal Shemesh Renewable Energy specializes in the following areas</h4> <br><br>
+					<div class="col-md-6" style="margin:10px">
+						<ol style="list-style-image: url('img/right-icon.png')">
+							<li> Wind and Solar Hybrid systems known as solarmill</li><br>
+							<li> Control systems for cooling, moisture, air and motion</li><br>
+							<li> Solar water heating system</li><br>
+							<li> Solar pumping system</li><br>
+							<li> Photovoltaic system design and installation</li>
+					
+						</ol>
+					</div>
+					<div class="col-md-6" style="margin:10px">
+						<ol style="list-style-image: url('img/right-icon.png')">
+							<li> Solar Power systems for homes</li><br>
+							<li> Solar power systems for street lights and public places</li><br>
+							<li> Bulding integrated Photovoltaic (BIPV) Engineering, Consulting and Distribution</li><br>
+							<li> Electrical Services</li><br>
+							<li> Energy management & Building Optimization</li>
+						</ol>
+					</div>
+				</div>
+			</div>
 		
 			<!-- Footer -->
 		<footer class="footer wow fadeIn" style="background-image:url('img/map.png')">

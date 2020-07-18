@@ -52,6 +52,8 @@
         p{font-size: 20px; line-height: 30px;}
         li>a{font-size: 17px}
 
+        ol>li{font-size: 18px; font-family: Montserrat; line-height: 30px}
+
         .gradient-background{
             background: rgb(2,0,36);
             background: linear-gradient(6deg, rgba(2,0,36,1) 0%, rgba(7,3,116,1) 47%, rgba(2,0,36,1) 100%);
@@ -198,6 +200,17 @@
                             We look forward to forming a synergistic alliance with your noble outfit.
                         </p> <br>
                         <p class="wow rotateInDownLeft"> Explore Our Solar Energy Products Below : </p>
+                        <br>
+                <ol style="list-style: square">
+                    <li> Solar Panels</li>
+                    <li> Solar street lights</li>
+                    <li> LED bulbs</li>
+                    <li> Portable Power Generator</li>
+                    <li> Solar water heater</li>
+                    <li> solar water pump</li>
+                    <li> Inverter</li>
+                    <li> Batteries</li>
+                </ol>
                     </div>
                 </div>
                 <div  class="col-lg-5 offset-lg-1 col-md-6 col-12"><br> <br> <br>
@@ -212,7 +225,55 @@
         <div class="container">
             <div class="service-content">
                 <h2 class="wow rotateInDownLeft text-center" style="color: darkblue">Royal Shemesh – Solar Energy Products</h2>
+            
             </div><br>
+            <div class="row">
+                <div class="col col-md-4 col-sm-6 mb-4">
+                    <div class="card wow fadeInUp custom-shadow">
+                        <img style="width: 100%; height: 200px" src="img/solar-products/solar-water-pump.jpg" class="card-img-top img-fluid" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Solar water pump </h5>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">Solar garden light for 3-4m pole or on the wall </li>
+                                <li class="list-group-item">Solar Panel: 6W</li>
+                                <li class="list-group-item">LiFePO4 battery: 7.4V 5Ah</li>
+                                <li class="list-group-item">3 years limited warranty</li>
+                            </ul>
+                            <div class="text-center p-3"> <a href="contact.php" class="btn btn-primary" style="background-color: darkblue">Get in touch</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col col-md-4 col-sm-6 mb-4">
+                    <div class="card wow fadeInUp custom-shadow">
+                        <img style="width: 100%; height: 202px" src="img/solar-products/solar-water-pump1.jpg" class="card-img-top img-fluid" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Solar water pump </h5>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">All in one solar garden light for 4-6m pole Top </li>
+                                <li class="list-group-item">Solar Panel: 25W</li>
+                                <li class="list-group-item">LED Lamps: 12V/15W</li>
+                                <li class="list-group-item">3 years limited warranty</li>
+                            </ul>
+                            <div class="text-center p-3"> <a href="contact.php" class="btn btn-primary" style="background-color: darkblue">Get in touch</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col col-md-4 col-sm-6 mb-4">
+                    <div class="card custom-shadow wow fadeInUp">
+                        <img style="width: 100%; height: 225px" src="img/solar-products/solar-water-panel.jpg" class="card-img-top img-fluid" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Solar water panel and pump</h5>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">Solar garden light</li>
+                                <li class="list-group-item">Solar Panel: 40W</li>
+                                <li class="list-group-item">LED Lamps: 12V/20W</li>
+                                <li class="list-group-item">3 years limited warranty</li>
+                            </ul>
+                            <div class="text-center p-3"> <a href="contact.php" class="btn btn-primary" style="background-color: darkblue">Get in touch</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="row">
                 <div class="col col-md-4 col-sm-6 mb-4">
                     <div class="card wow fadeInUp custom-shadow">
